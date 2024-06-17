@@ -10,5 +10,5 @@ if __name__ == "__main__":
     hello.deploy(
         name="my-deployment",
         work_pool_name="my-work-pool",
-        image="kevingrismoreprefect/cicd-example:latest",
+        image="caomaodjs/cicd-example:latest",
     )
